@@ -1,0 +1,20 @@
+{
+  "name": "28574_nodejs_assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "moment": "^2.29.3",
+    "nodemon": "^2.0.16",
+    "pg": "^8.7.3"
+  }
+}
